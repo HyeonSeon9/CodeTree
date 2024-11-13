@@ -7,5 +7,6 @@ public class Main {
         sb.append("(^・ω・^)");
         sb.append(System.lineSeparator());
         sb.append("(=^･^=)");
+        System.out.println(sb);
     }
 }
